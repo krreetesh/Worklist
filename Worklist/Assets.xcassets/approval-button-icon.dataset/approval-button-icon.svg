@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #263970;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-width: 1.4px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        filter: url(#Button);
+      }
+    </style>
+    <filter id="Button" x="0" y="0" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#c1ddec"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="approval-button-icon" transform="translate(-95 -465)">
+    <g id="button-bg-icon" transform="translate(32 -49)">
+      <g class="cls-6" transform="matrix(1, 0, 0, 1, 63, 514)">
+        <rect id="Button-2" data-name="Button" class="cls-1" width="60" height="60" rx="30" transform="translate(18 8)"/>
+      </g>
+    </g>
+    <g id="Group_24" data-name="Group 24" transform="translate(-41.506 19.494)">
+      <g id="Rectangle_41" data-name="Rectangle 41" class="cls-2" transform="translate(175 474)">
+        <rect class="cls-4" width="19.013" height="19.013" rx="3"/>
+        <rect class="cls-5" x="0.7" y="0.7" width="17.613" height="17.613" rx="2.3"/>
+      </g>
+      <path id="Check" class="cls-3" d="M5.827,13.8H.707V11.983h4.4V.707H7.034V13.8Z" transform="translate(187.219 474.16) rotate(45)"/>
+    </g>
+  </g>
+</svg>

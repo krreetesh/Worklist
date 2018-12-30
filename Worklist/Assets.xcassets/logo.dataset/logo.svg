@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 211 39">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #263970;
+      }
+
+      .cls-1 {
+        font-size: 27px;
+        font-family: SourceSansPro-Bold, Source Sans Pro;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-family: SourceSansPro-Regular, Source Sans Pro;
+        font-weight: 400;
+      }
+
+      .cls-3 {
+        fill: #e4313e;
+      }
+
+      .cls-4 {
+        fill: #fae044;
+      }
+    </style>
+  </defs>
+  <g id="logo" transform="translate(-77 -132)">
+    <text id="Wipro_Worklist" data-name="Wipro Worklist" class="cls-1" transform="translate(120 164)"><tspan x="0" y="0">Wipro</tspan><tspan class="cls-2" y="0" xml:space="preserve"> Worklist</tspan></text>
+    <circle id="Ellipse_256" data-name="Ellipse 256" class="cls-3" cx="12" cy="12" r="12" transform="translate(87 144)"/>
+    <circle id="Ellipse_257" data-name="Ellipse 257" class="cls-4" cx="9" cy="9" r="9" transform="translate(77 143)"/>
+    <circle id="Ellipse_258" data-name="Ellipse 258" class="cls-5" cx="4.5" cy="4.5" r="4.5" transform="translate(91 132)"/>
+  </g>
+</svg>

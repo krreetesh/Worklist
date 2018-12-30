@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #263970;
+        font-size: 18px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="close-icon" transform="translate(-338 -359)">
+    <text id="X" class="cls-1" transform="translate(344 378)"><tspan x="-5.695" y="0">X</tspan></text>
+  </g>
+</svg>

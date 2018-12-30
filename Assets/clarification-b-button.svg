@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.5 40.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1fb6ff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="clarification-b-button" transform="translate(-202 -743)">
+    <circle id="Ellipse_255" data-name="Ellipse 255" class="cls-1" cx="20.25" cy="20.25" r="20.25" transform="translate(202 743)"/>
+    <path id="Forma_1" data-name="Forma 1" class="cls-2" d="M3.883,17.641A1.761,1.761,0,1,1,5.644,19.4,1.761,1.761,0,0,1,3.883,17.641ZM4.232,13.4V9.876a1.411,1.411,0,0,1,1.411-1.41A2.822,2.822,0,1,0,2.823,5.644,1.411,1.411,0,0,1,0,5.644a5.644,5.644,0,1,1,7.055,5.465V13.4a1.411,1.411,0,1,1-2.823,0Z" transform="translate(216.947 753.226)"/>
+  </g>
+</svg>

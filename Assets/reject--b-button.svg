@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.5 40.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="reject--b-button" transform="translate(-146 -743)">
+    <path id="Path_403" data-name="Path 403" class="cls-1" d="M20.25,0A20.25,20.25,0,1,1,0,20.25,20.25,20.25,0,0,1,20.25,0Z" transform="translate(146 743)"/>
+    <path id="Check" class="cls-2" d="M7.715,17.635V9.919H0v-2.2H7.715V0h2.2V7.715h7.715v2.2H9.919v7.715Z" transform="translate(166.021 750.601) rotate(45)"/>
+  </g>
+</svg>

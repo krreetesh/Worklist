@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.5 40.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #10ae7b;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="approved-b-button" transform="translate(-90 -743)">
+    <circle id="Ellipse_255" data-name="Ellipse 255" class="cls-1" cx="20.25" cy="20.25" r="20.25" transform="translate(90 743)"/>
+    <path id="Check" class="cls-2" d="M0,19.435V17.068H6.074V0H8.441V19.043H8.425v.392Z" transform="translate(114.395 750.468) rotate(45)"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fae044;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="more-item-icon" transform="translate(-285 -485)">
+    <rect id="rectangle" class="cls-1" width="16.688" height="16.02" transform="translate(288.312 488.98)"/>
+    <circle id="Ellipse_238" data-name="Ellipse 238" class="cls-2" cx="12" cy="12" r="12" transform="translate(285 485)"/>
+    <line id="Line_5" data-name="Line 5" class="cls-3" x2="10.68" transform="translate(290.551 497.324)"/>
+    <path id="Path_221" data-name="Path 221" class="cls-3" d="M0,0,3.78,4.063,7.671,0" transform="translate(298.601 501.05) rotate(-90)"/>
+  </g>
+</svg>

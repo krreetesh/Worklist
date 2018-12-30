@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="reject-button" transform="translate(-141 -622)">
+    <path id="Path_401" data-name="Path 401" class="cls-1" d="M16.5,0A16.5,16.5,0,1,1,0,16.5,16.5,16.5,0,0,1,16.5,0Z" transform="translate(141 622)"/>
+    <path id="Check" class="cls-2" d="M2.084,15.82v-7h-7v-2h7v-7h2v7h7v2h-7v7Z" transform="translate(160.663 630.603) rotate(45)"/>
+  </g>
+</svg>

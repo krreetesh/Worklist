@@ -1,0 +1,20 @@
+PODS:
+  - iCarousel (1.8.3)
+  - JJFloatingActionButton (0.10.0)
+
+DEPENDENCIES:
+  - iCarousel
+  - JJFloatingActionButton
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - iCarousel
+    - JJFloatingActionButton
+
+SPEC CHECKSUMS:
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  JJFloatingActionButton: 7e9e924d0819ebeb6a566dade9d5dbed63ff8add
+
+PODFILE CHECKSUM: 57cb1b35599845404c6687b0cbb9cb0a506fadbc
+
+COCOAPODS: 1.5.3

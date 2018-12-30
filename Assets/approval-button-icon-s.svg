@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.013 19.013">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 1.4px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="approval-button-icon-s" transform="translate(-133.494 -493.494)">
+    <g id="Rectangle_41" data-name="Rectangle 41" class="cls-1" transform="translate(133.494 493.494)">
+      <rect class="cls-3" width="19.013" height="19.013" rx="3"/>
+      <rect class="cls-4" x="0.7" y="0.7" width="17.613" height="17.613" rx="2.3"/>
+    </g>
+    <path id="Check" class="cls-2" d="M5.827,13.8H.707V11.983h4.4V.707H7.034V13.8Z" transform="translate(145.713 493.653) rotate(45)"/>
+  </g>
+</svg>

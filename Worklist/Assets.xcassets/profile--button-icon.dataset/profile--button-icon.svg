@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #263970;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 1.4px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        filter: url(#Button);
+      }
+    </style>
+    <filter id="Button" x="0" y="0" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#c1ddec"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="profile--button-icon" transform="translate(-245 -528)">
+    <g id="button-bg-icon" transform="translate(182 14)">
+      <g class="cls-4" transform="matrix(1, 0, 0, 1, 63, 514)">
+        <rect id="Button-2" data-name="Button" class="cls-1" width="60" height="60" rx="30" transform="translate(18 8)"/>
+      </g>
+    </g>
+    <ellipse id="Ellipse_248" data-name="Ellipse 248" class="cls-2" cx="5.404" cy="6.485" rx="5.404" ry="6.485" transform="translate(287.866 554.45)"/>
+    <path id="Path_219" data-name="Path 219" class="cls-3" d="M23.4,19.45a9.85,9.85,0,0,0-5.188-4.539,2.42,2.42,0,0,0-1.945.108,6.635,6.635,0,0,1-6.917,0,2.432,2.432,0,0,0-1.945,0,9.85,9.85,0,0,0-5.188,4.539,2.133,2.133,0,0,0,2.053,3.026H21.347A2.189,2.189,0,0,0,23.4,19.45Z" transform="translate(280.461 554.481)"/>
+  </g>
+</svg>

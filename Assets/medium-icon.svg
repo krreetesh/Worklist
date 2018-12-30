@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1fb6ff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 10px;
+        font-family: Roboto-Regular, Roboto;
+        letter-spacing: 0.013em;
+      }
+    </style>
+  </defs>
+  <g id="medium-icon" transform="translate(-275 -552)">
+    <g id="Group_30" data-name="Group 30" transform="translate(-211 -775)">
+      <path id="Path_10" data-name="Path 10" class="cls-1" d="M11,0H52a11,11,0,0,1,0,22H11A11,11,0,0,1,11,0Z" transform="translate(486 1327)"/>
+      <text id="Medium" class="cls-2" transform="translate(498 1342)"><tspan x="0" y="0">Medium</tspan></text>
+    </g>
+  </g>
+</svg>

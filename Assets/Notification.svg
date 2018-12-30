@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59.583 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #e4313e;
+      }
+
+      .cls-3 {
+        filter: url(#Rectangle_189);
+      }
+    </style>
+    <filter id="Rectangle_189" x="6.833" y="0" width="11" height="11" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Notification" transform="translate(-341.167 -94.5)">
+    <path id="ic_notifications_paused_24px" class="cls-1" d="M12.333,22a2.049,2.049,0,0,0,2.083-2H10.25A2.042,2.042,0,0,0,12.333,22Zm6.25-6V11A6.122,6.122,0,0,0,13.9,4.68V4a1.564,1.564,0,0,0-3.125,0v.68A6.112,6.112,0,0,0,6.083,11v5L4,18v1H20.667V18Z" transform="translate(337.167 92.5)"/>
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 341.17, 94.5)">
+      <rect id="Rectangle_189-2" data-name="Rectangle 189" class="cls-2" width="8" height="8" rx="4" transform="translate(8.33 1.5)"/>
+    </g>
+    <path id="logout" class="cls-1" d="M16.642,14.336a1.045,1.045,0,1,0-1.733-1.171,6.462,6.462,0,1,1,.009-7.212,1.046,1.046,0,1,0,1.735-1.166,8.553,8.553,0,1,0-.012,9.549Zm3.915-.907,3.136-3.137q.036-.036.069-.076l.015-.02c.016-.02.032-.041.046-.062l.011-.019c.015-.023.029-.046.042-.069l.007-.014c.013-.026.026-.052.037-.079l0-.009c.011-.028.022-.057.031-.087l0-.01c.008-.029.016-.058.022-.088,0-.009,0-.017,0-.026,0-.025.009-.05.011-.075a1.03,1.03,0,0,0,0-.209c0-.025-.007-.05-.011-.075,0-.009,0-.018,0-.027-.006-.03-.014-.059-.022-.088l0-.011c-.009-.029-.019-.058-.031-.086l0-.01c-.011-.027-.024-.053-.037-.078l-.007-.014c-.013-.024-.027-.046-.041-.069l-.012-.019c-.014-.021-.03-.042-.046-.062l-.015-.02c-.022-.026-.045-.052-.069-.076L20.557,5.677a1.046,1.046,0,1,0-1.478,1.479L20.43,8.507H8.318a1.046,1.046,0,0,0,0,2.091H20.43L19.079,11.95a1.046,1.046,0,1,0,1.478,1.479Z" transform="translate(376.749 95)"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #bdcdd1;
+        stroke: #bdcdd1;
+      }
+    </style>
+  </defs>
+  <g id="home-icon" transform="translate(-267 -582)">
+    <rect id="Blue_Button" data-name="Blue Button" class="cls-1" width="60" height="60" rx="30" transform="translate(267 582)"/>
+    <path id="home-icon-2" data-name="home-icon" class="cls-2" d="M18.313,27.18a.8.8,0,0,1-.795-.735.593.593,0,0,1,0-.061V18.667a2.393,2.393,0,0,0-4.786,0v7.717a.594.594,0,0,1,0,.062.8.8,0,0,1-.794.734H3.955a.8.8,0,0,1-.8-.8V12.91a.8.8,0,0,1,1.6,0V25.587h6.381v-6.92a3.988,3.988,0,0,1,7.977,0v6.92h6.381V12.91a.8.8,0,0,1,1.6,0V26.384a.8.8,0,0,1-.8.8ZM-.073,11.761A.8.8,0,0,1,.1,10.648L14.651.009a.8.8,0,0,1,.942,0L30.145,10.648a.8.8,0,0,1-.942,1.285L15.122,1.639,1.042,11.933a.8.8,0,0,1-1.115-.172Z" transform="translate(281.591 599.095)"/>
+  </g>
+</svg>

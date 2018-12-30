@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.453 21.453">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e4313e;
+      }
+
+      .cls-2 {
+        fill: #fae044;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="logo-icon" transform="translate(-19.244 -43.244)">
+    <ellipse id="Ellipse_252" data-name="Ellipse 252" class="cls-1" cx="7.313" cy="7.313" rx="7.313" ry="7.313" transform="translate(26.07 50.07)"/>
+    <circle id="Ellipse_253" data-name="Ellipse 253" class="cls-2" cx="5.851" cy="5.851" r="5.851" transform="translate(19.244 49.583)"/>
+    <path id="Path_399" data-name="Path 399" class="cls-3" d="M2.438,0A2.438,2.438,0,1,1,0,2.438,2.438,2.438,0,0,1,2.438,0Z" transform="translate(28.508 43.244)"/>
+  </g>
+</svg>

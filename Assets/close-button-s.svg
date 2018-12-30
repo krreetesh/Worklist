@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.628 22.628">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #263970;
+      }
+    </style>
+  </defs>
+  <g id="close-button-s" transform="translate(-176.685 -599.686)">
+    <path id="close-button-s-2" data-name="close-button-s" class="cls-1" d="M6,14V10H2A2,2,0,1,1,2,6H6V2a2,2,0,1,1,4,0V6h4a2,2,0,0,1,0,4H10v4a2,2,0,0,1-4,0Z" transform="translate(187.999 599.686) rotate(45)"/>
+  </g>
+</svg>

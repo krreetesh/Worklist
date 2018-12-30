@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #263970;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#Button);
+      }
+    </style>
+    <filter id="Button" x="0" y="0" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#c1ddec"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="task-button-icon" transform="translate(-35 -528)">
+    <g id="button-bg-icon" transform="translate(-28 14)">
+      <g class="cls-3" transform="matrix(1, 0, 0, 1, 63, 514)">
+        <rect id="Button-2" data-name="Button" class="cls-1" width="60" height="60" rx="30" transform="translate(18 8)"/>
+      </g>
+    </g>
+    <path id="Forma_1" data-name="Forma 1" class="cls-2" d="M1.892,25.559A1.892,1.892,0,0,1,0,23.666V6.626A1.892,1.892,0,0,1,1.892,4.733H3.945A2.844,2.844,0,0,1,5.833,2.95a1.3,1.3,0,0,0,.9-.9,2.838,2.838,0,0,1,5.454,0,1.3,1.3,0,0,0,.9.9,2.844,2.844,0,0,1,1.888,1.783h2.055a1.892,1.892,0,0,1,1.892,1.893V9.189l-.946.953V6.626a.946.946,0,0,0-.946-.947H15.133V7.573H3.783V5.68H1.892a.946.946,0,0,0-.946.947V23.666a.946.946,0,0,0,.946.947H17.024a.946.946,0,0,0,.946-.947V16.853l-4.911,4.916c-.954.005-.378,0-2.655,0v-2.7L20.681,8.785a.946.946,0,0,1,1.338,0l1.338,1.339a.948.948,0,0,1,0,1.339l-4.44,4.444v7.76a1.892,1.892,0,0,1-1.892,1.893Zm9.458-6.1v.732l.63.631.685,0,.659-.66-1.338-1.339Zm1.306-1.307,1.338,1.339,6.019-6.024-1.338-1.339Zm6.688-6.694L20.681,12.8l.669-.669-1.338-1.339Zm1.338-1.339,1.338,1.339.669-.669L21.349,9.454ZM7.64,2.315A2.245,2.245,0,0,1,6.1,3.86a1.9,1.9,0,0,0-1.366,1.8v.962h9.458V5.68A1.9,1.9,0,0,0,12.82,3.86a2.243,2.243,0,0,1-1.543-1.545,1.892,1.892,0,0,0-3.636,0ZM3.783,20.826v-.947H8.512v.947Zm0-2.84v-.947H11.1l-.946.947Zm0-2.84V14.2h10.15l-.946.947Zm0-2.84v-.947H15.132v.947ZM8.763,2.84a.709.709,0,1,1,.709.71A.71.71,0,0,1,8.763,2.84Z" transform="translate(71 553.439)"/>
+  </g>
+</svg>

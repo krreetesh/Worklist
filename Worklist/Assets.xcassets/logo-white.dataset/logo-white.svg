@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 274 50">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-size: 35px;
+        font-family: SourceSansPro-Bold, Source Sans Pro;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-family: SourceSansPro-Regular, Source Sans Pro;
+        font-weight: 400;
+      }
+
+      .cls-3 {
+        fill: #e4313e;
+      }
+
+      .cls-4 {
+        fill: #fae044;
+      }
+    </style>
+  </defs>
+  <g id="logo-white" transform="translate(-49 -310)">
+    <g id="Symbol_13_1" data-name="Symbol 13 – 1">
+      <text id="Wipro_Worklist" data-name="Wipro Worklist" class="cls-1" transform="translate(105 350)"><tspan x="0" y="0">Wipro</tspan><tspan class="cls-2" y="0" xml:space="preserve"> Worklist</tspan></text>
+      <g id="logo-icon" transform="translate(-56 212)">
+        <circle id="Ellipse_249" data-name="Ellipse 249" class="cls-3" cx="14.82" cy="14.82" r="14.82" transform="translate(119.176 112.176)"/>
+        <circle id="Ellipse_250" data-name="Ellipse 250" class="cls-4" cx="12.243" cy="12.243" r="12.243" transform="translate(105 110.887)"/>
+        <circle id="Ellipse_251" data-name="Ellipse 251" class="cls-5" cx="5.155" cy="5.155" r="5.155" transform="translate(124.331 98)"/>
+      </g>
+    </g>
+  </g>
+</svg>

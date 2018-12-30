@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 166 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fae044;
+      }
+
+      .cls-2 {
+        fill: #263970;
+        font-size: 14px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="login-button" transform="translate(-105 -380)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="166" height="40" rx="20" transform="translate(105 380)"/>
+    <text id="LOGIN" class="cls-2" transform="translate(188 406)"><tspan x="-20.111" y="0">LOGIN</tspan></text>
+  </g>
+</svg>
